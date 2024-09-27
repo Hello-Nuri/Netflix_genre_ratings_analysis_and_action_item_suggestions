@@ -2,13 +2,14 @@
 
 기존 넷플릭스 영화 평점 데이터를 분석하여 새로운 컨텐츠 제작 아이디어 제안
 
----
 
-## **[목차]**
+
+### **[목차]**
 
 1. 데이터 수집
     - Kaggle 넷플릭스 영화 데이터셋, IMDb 평점 데이터 활용
     - [Netflix Original Films & IMDB Scores](https://www.kaggle.com/datasets/luiscorter/netflix-original-films-imdb-scores)
+              
 2. 데이터 전처리
     - 장르 대분류, 소분류 (넷플릭스 대분류 기반으로 작업)
     - ‘Christmas’ : 영화업계의 특수성을 고려해 변수 추가
@@ -22,6 +23,6 @@
     - Shorts
 5. 결론 _ 인사이트 제안
 
----
+
 
 2024Ⓒ 👾 nuri Park
